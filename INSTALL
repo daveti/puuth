@@ -1,0 +1,9 @@
+This hack is based on Python 2.7.8
+
+0. Download the original Python 2.7.8
+
+1. Replace the corresponding files using puuth
+
+2. Or just replace the fix without any other debuggings - socket.py
+
+3. Note that the setup.py contains a lot of dirty hacks for building Python on Mac OS Yosemite! You probably do not need it.
